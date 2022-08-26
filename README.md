@@ -22,15 +22,15 @@ timezone, offset, offset_dst
 
 # Project Specifications:
 
->App Capability
+App Capability
 
 1.       App should hold information about the times in countries of the world (two lists have been provided. One contains 588 Countries times while the other has times for 404 countries)
 
 a.       Should therefore be able to tell the current time in any country specified by the user by simply reading the current system time and time zone
 
-2.       App should hold the time zones and times of the 200 time zones provided
+b.       App should hold the time zones and times of the 200 time zones provided
 
-a.       Should therefore be able to tell the time zone of any country specified by the user
+c.       Should therefore be able to tell the time zone of any country specified by the user
 
 
 3.       When provided the name of a source country and time zone, the app should be able to provide the equivalent time in any specified target country and display its time zone
